@@ -65,6 +65,7 @@ The following tools were used in this project:
 - [Scikit-learn](https://scikit-learn.org/stable/)
 - [Tensorflow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
+- [XGboost](https://xgboost.ai/)
 
 
 ## :white_check_mark: Requirements ##
